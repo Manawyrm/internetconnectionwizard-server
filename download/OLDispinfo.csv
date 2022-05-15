@@ -1,3 +1,0 @@
-szISPName,wOfferID,szISPLogoPath,szISPMarketingHTMPath,szISPTierLogoPath,szISPTeaserPath,szISPFilePath,dwCfgFlag,dwRequiredUserInputFlags,szBillingFormPath,szPayCSVPath,szOfferGUID,szMir,wLCID
-'ico2660',1,ico2660.gif,ico2660.htm,ico2660.gif,,ispfile.csv,0,0,0,billingform.csv,paycsv.csv,11111111-00000-000000000-0,MIR,1031
-'ico2661',1,ico2660.gif,ico2660.htm,ico2660.gif,,ispfile.csv,0,0,0,billingform.csv,paycsv.csv,11111111-00000-000000000-0,MIR,1031
