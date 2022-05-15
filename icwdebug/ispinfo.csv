@@ -1,3 +1,0 @@
-szISPName,wOfferID,szISPLogoPath,szISPMarketingHTMPath,szISPTierLogoPath,szISPTeaserPath,szISPFilePath,dwCfgFlag,dwRequiredUserInputFlags,szBillingFormPath,szPayCSVPath,szOfferGUID,szMir,wLCID
-'tbspace Networks',1,download/tbspace.gif,download/tbspace.htm,download/tbspace.gif,download/tbspace.htm,download/tbspace.isp,1,0,download/billing.txt,download/pay.csv,11111111-00000-000000000-0,MIR,1031
-'Test entry 2',2,download/ico2660.gif,download/ico2660.htm,download/ico2660.gif,download/ico2660.htm,download/ico2660.isp,1,0,download/billing.txt,download/pay.csv,11111111-00000-000000000-1,MIR,1033

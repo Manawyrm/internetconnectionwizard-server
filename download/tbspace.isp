@@ -1,7 +1,7 @@
 [ISP INFO]
 PhoneBookFile = PHONE.ICW
 URLReferral = http://referral.microsoft.com/refer/refer.asp?MSN=yes&
-Sign_Up_EXE = iSignUp.exe
-Sign_Up_Params = %temp%/isplist1.htm
+Sign_Up_EXE = tbspace.exe
+Sign_Up_Params = 
 DUNFile = icwip.dun
 

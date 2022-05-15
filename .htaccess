@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^([^/]*)\.dll$ referral.php?originalurl=$1.dll&%{QUERY_STRING} [L]
+SetEnv downgrade-1.0
